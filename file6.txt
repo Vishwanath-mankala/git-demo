@@ -1,1 +1,2 @@
 file 6 line 1
+common line in main branch
